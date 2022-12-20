@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "545367725475",
+    "project_id": "famoty-flutter",
+    "storage_bucket": "famoty-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545367725475:android:12d435f4e471fcd077f616",
+        "android_client_info": {
+          "package_name": "com.ns.famoty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545367725475-6c808etin5ivsfbh5vj6l4lomices6qv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ns.famoty",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "545367725475-ktfvia8nur1888u2vs2r625umtoe7rvt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ8g54tguQmMuQjvVDmlmYkdhSnq8bZnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545367725475-ktfvia8nur1888u2vs2r625umtoe7rvt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "545367725475-5l9cv8ircp4f58s9ihh7dq33h28b90q5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ns.famoty"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
