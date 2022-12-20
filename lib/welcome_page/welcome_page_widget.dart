@@ -119,7 +119,7 @@ class _WelcomePageWidgetState extends State<WelcomePageWidget>
                   children: [
                     SelectionArea(
                         child: Text(
-                      'Winter \nVacation Trips',
+                      'Winter \nVacation Trips!!!',
                       style: FlutterFlowTheme.of(context).bodyText1.override(
                             fontFamily: 'Merriweather',
                             fontSize: 30,
